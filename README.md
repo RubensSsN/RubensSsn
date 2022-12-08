@@ -1,12 +1,21 @@
 ### Hello my name is Rubens, a young developer 👋
-<div align="center">
-  <a href="https://github.com/RubensSsn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubensSsn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensSsn&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+## Public information
+
+I'm Rubens, I'm 18 years old, I started studying JS, MySQL in 2021 and I went through HTML and CSS in that time, in 2022 I started studying Java, Angular and that's where I decided to focus, and I won the programming championship at my college, so I come then looked for my YES in the programming area.
+
+## Detailed information
+
+* **Name**: Rubens Samuel
+* **Age**: 18
+* **Living in**: Brasilia - DF, Brazil
+* **Stack**: Java - Spring - Bootstrap - SQL - Angular
+* **University**: UniCEUB - Analysis and systems development
+* **Prizes:** UniCEUB hackathon champion
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rubens-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Rubens-Angular" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
   <img align="center" alt="Rubens-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rubens-MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Rubens-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
