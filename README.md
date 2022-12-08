@@ -1,5 +1,3 @@
-### Hello my name is Rubens, a young developer 👋
-
 ## Public information
 
 I'm Rubens, I'm 18 years old, I started studying JS, MySQL in 2021 and I went through HTML and CSS in that time, in 2022 I started studying Java, Angular and that's where I decided to focus, and I won the programming championship at my college, so I come then looked for my YES in the programming area.
