@@ -1,4 +1,4 @@
-### Olá me chamo Rubens, um jovem developer 👋
+### Hello my name is Rubens, a young developer 👋
 <div align="center">
   <a href="https://github.com/RubensSsn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubensSsn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
