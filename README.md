@@ -1,13 +1,13 @@
 ## Public information
 
-I'm Rubens, I'm 18 years old, I started studying JS, MySQL in 2021 and I went through HTML and CSS in that time, in 2022 I started studying Java, Angular and that's where I decided to focus, and I won the programming championship at my college and in 2023 im started work at Java back-end developer.
+I'm Rubens, I'm 19 years old, I started studying JS, MySQL in 2021 and went through HTML and CSS in that time, in 2022 I started studying Java, Angular and that's where I decided to focus, and I won my college's programming championship, after that in the year 2023 I started working as a Java Developer and learned Azure DevOps, Kubernates and Sonar to be a better professional in my work.
 
 ## Detailed information
 
 * **Name**: Rubens Samuel
 * **Age**: 19
 * **Living in**: Brazil
-* **Stack**: Java - Spring - Angular - SQL - Azure DevOps - NoSQL
+* **Stack**: Java, Angular, Spring, Azure DevOps, Kubernates, Docker, Sonar.
 * **University**: UniCEUB - Analysis and systems development
 * **Prizes:** UniCEUB hackathon champion and Oracle Cloud Infrastructure certification
   
