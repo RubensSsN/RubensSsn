@@ -5,11 +5,11 @@ I'm Rubens, I'm 18 years old, I started studying JS, MySQL in 2021 and I went th
 ## Detailed information
 
 * **Name**: Rubens Samuel
-* **Age**: 18
-* **Living in**: Brasilia - DF, Brazil
+* **Age**: 19
+* **Living in**: Brazil
 * **Stack**: Java - Spring - Bootstrap - SQL - Angular - Azure DevOps
 * **University**: UniCEUB - Analysis and systems development
-* **Prizes:** UniCEUB hackathon champion
+* **Prizes:** UniCEUB hackathon champion and Oracle Cloud Infrastructure certification
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rubens-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
