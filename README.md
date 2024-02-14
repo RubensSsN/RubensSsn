@@ -7,7 +7,7 @@ I'm Rubens, I'm 19 years old, I started studying JS, MySQL in 2021 and went thro
 * **Name**: Rubens Samuel
 * **Age**: 19
 * **Living in**: Brazil
-* **Stack**: Java, Angular, Spring, Azure DevOps, Kubernates, Docker, Sonar.
+* **Stack**: Java, Angular, Spring, Azure DevOps, Kubernates, Docker, MongoDB, Sonar.
 * **University**: UniCEUB - Analysis and systems development
 * **Prizes:** UniCEUB hackathon champion and Oracle Cloud Infrastructure certification
   
